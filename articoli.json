@@ -52,6 +52,7 @@
 
 	{
 		"name": "laminazione ciglia e sopracciglia",
+		"img": "res/laminazione ciglia e sopracciglia.jpg",
 		"description": "Il nostro pacchetto - Laminazione ciglia e sopracciglia - offre in un'unica seduta l'utilizzo della tecnica della laminazione applicata sia alle ciglia che alle sopracciglia..",
 		"price": "80",
 		"agg": "per entrambe le laminazioni"
@@ -60,6 +61,7 @@
 
 	{
 		"name": "massaggio linfodrenante e rilassante",
+		"img":"res/ massaggio linfodrenante e rilassante.jpg",
 		"description": "Il nostro prodotto - Massaggio linfodrenate e rilassante - offre in un'unica seduta le due diverse tecniche di massaggio. In questo modo potrai godere di un rilassamento generale e una scarica di tensione insieme a una riduzione di ristagni di liquidi per la prevenzione della cellulite.",
 		"price": "60",
 		"agg":"totali per i due trattamenti."
@@ -68,6 +70,7 @@
 
 	{
 		"name": " Laminazione ciglia e sopracciglia e pulizia del viso",
+		"img": "res/laminazione ciglia e sopracciglia e pulizia del viso.jpg",
 		"description": "Il nostro prodotto - Massaggio linfodrenate e rilassante - offre in un'unica seduta le due diverse tecniche di massaggio. In questo modo potrai godere di un rilassamento generale e una scarica di tensione insieme a una riduzione di ristagni di liquidi per la prevenzione della cellulite.",
 		"price": "120",
 		"agg": "per l'intero pacchetto."
